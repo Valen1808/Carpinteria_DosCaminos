@@ -1,0 +1,19 @@
+# 🪚 Carpintería Dos Caminos
+
+Este proyecto fue desarrollado en **Java** siguiendo el patrón de arquitectura **Modelo–Vista–Controlador (MVC)**.  
+Tiene como propósito gestionar las operaciones de una **carpintería**, permitiendo el registro, consulta, actualización y eliminación de información relacionada con los productos, clientes y empleados.
+
+El sistema cuenta con una **conexión a base de datos**, lo que permite almacenar de manera segura todos los datos operativos y facilitar la administración de los procesos del negocio.
+
+## ⚙️ Tecnologías utilizadas
+- Java SE
+- MySQL (Base de datos)
+- JDBC (Conexión entre Java y la base de datos)
+- NetBeans / IntelliJ IDEA (Entorno de desarrollo)
+- Patrón MVC
+
+## 🚀 Objetivo del proyecto
+Optimizar la gestión de la carpintería mediante un sistema informático que centralice la información y automatice las tareas básicas, mejorando la eficiencia y la trazabilidad de las operaciones.
+
+Proyecto académico: *Carpintería Dos Caminos*  
+Año: 2025
